@@ -1,3 +1,3 @@
-# angular-as-project-yxuf9e
+# angular-ssw-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-as-project-yxuf9e)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ssw-project)
